@@ -30,7 +30,7 @@ jobs:
             -headless
             -disable-gpu
             --no-sandbox
-            --print-to-pdf=dist/resume.pdf
+            --print-to-pdf=dist/resume-pt.pdf
             --print-to-pdf-no-header
             index.html
 
